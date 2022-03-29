@@ -1,2 +1,4 @@
 # js-canvas-primitives-browser-game-maze
 A maze browser game made with JavaScript using only line draw 2D primitives
+
+An interactive maze inspired by the common children’s puzzle. My goal with this project was to take what seemed like the most primate graphic type, drawn lines, and create a difficult, engaging, game. I used three types of lines to accomplish this design. Initially, a maze of pre-drawn green lines is displayed, made to resemble the walls of a hedge maze. The players can solve the maze by holding down the mouse to draw a red line through the correct path from start to finish. The complication is that the maze grows, and a new green line, representing growing hedges, will begin to fill the map to block the player. If the player does not work quickly, the new lines will block them from getting to the finish. 
